@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+body {
+    margin: 0;
+    line-height: normal;
+}
+:root {
+    /* fonts */
+    --font-sf-pro-display: "SF Pro Display";
+    --font-inter: Inter;
+    --footnote: "SF Pro";
+
+    /* font sizes */
+    --font-size-sm: 14px;
+    --font-size-5xl: 24px;
+    --font-size-xs: 12px;
+    --font-size-base: 16px;
+    --font-size-xl: 20px;
+    --footnote-size: 13px;
+    --body-semibold-size: 17px;
+
+    /* Colors */
+    --label-colors-primary: #000;
+    --color-darkslategray-100: #303030;
+    --color-darkslategray-200: #2d2d2d;
+    --color-darkslategray-300: #043a31;
+    --label-colors-secondary: rgba(60, 60, 67, 0.6);
+    --separator-colors-non-opaque: rgba(60, 60, 67, 0.36);
+    --accent-white: #fff;
+    --color-mediumaquamarine: #31d0aa;
+    --color-gray-100: #202020;
+    --color-gray-200: #1e1e1e;
+    --color-gray-300: rgba(255, 255, 255, 0.5);
+    --color-gray-400: rgba(255, 255, 255, 0.4);
+    --color-darkorange: #ee8100;
+    --color-palevioletred: #ed7992;
+    --color-sandybrown: #ffc574;
+    --color-peru: #bd8155;
+    --accent-blue: #007aff;
+
+    /* Gaps */
+    --gap-7xs: 6px;
+    --gap-xl: 20px;
+    --gap-3xs: 10px;
+    --gap-2xs: 11px;
+    --gap-12xs: 1px;
+
+    /* Paddings */
+    --padding-3xl: 22px;
+    --padding-xs: 12px;
+    --padding-mini: 15px;
+    --padding-8xs: 5px;
+    --padding-5xl: 24px;
+    --padding-11xs: 2px;
+    --padding-3xs: 10px;
+    --padding-6xs: 7px;
+    --padding-base: 16px;
+    --padding-4xs: 9px;
+    --padding-sm: 14px;
+    --padding-12xs: 1px;
+    --padding-smi: 13px;
+    --padding-2xs: 11px;
+    --padding-9xs: 4px;
+    --padding-5xs: 8px;
+    --padding-mid: 17px;
+
+    /* Border radiuses */
+    --br-5xs: 8px;
+    --br-11xl: 30px;
+    --br-3xs: 10px;
+    --br-xl: 20px;
+}
