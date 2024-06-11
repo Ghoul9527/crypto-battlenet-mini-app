@@ -1,0 +1,15 @@
+# 忽略 node_modules 目录
+node_modules/
+
+# 忽略构建目录
+build/
+
+# 忽略 .env 文件
+.env
+
+# 可以根据需要添加其他忽略规则
+.DS_Store
+.idea/
+.vscode/
+dist/
+coverage/
